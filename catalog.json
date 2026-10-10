@@ -1,0 +1,177 @@
+[
+  {
+    "unit": 3,
+    "title": "快捷的物流运输",
+    "topic": "数量关系与解决问题",
+    "intro": "从采购单到配送路线，先说清每个量，再看它们怎样联系。",
+    "entry": "units/unit-03/index.html",
+    "cover": "assets/unit-03.svg",
+    "lessons": [
+      {
+        "title": "总价、单价与数量",
+        "href": "units/unit-03/index.html#price"
+      },
+      {
+        "title": "路程、速度与时间",
+        "href": "units/unit-03/index.html#speed"
+      },
+      {
+        "title": "两车到仓库：各自的时间",
+        "href": "units/unit-03/index.html#combine"
+      },
+      {
+        "title": "相遇问题：原讲解与六种探索",
+        "href": "units/unit-03/index.html#baseline"
+      },
+      {
+        "title": "单元综合：自己决定怎样做",
+        "href": "units/unit-03/index.html#unit-review"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "title": "苗木基地",
+    "topic": "运算律",
+    "intro": "数树苗、算花土，比较不同算法，发现运算中的规律。",
+    "entry": "units/unit-04/index.html",
+    "cover": "assets/unit-04-lesson-01.webp",
+    "lessons": [
+      {
+        "title": "加法交换律和结合律",
+        "href": "units/unit-04/lesson-01.html",
+        "cover": "assets/unit-04-lesson-01.webp"
+      },
+      {
+        "title": "乘法交换律和结合律",
+        "href": "units/unit-04/lesson-02.html",
+        "cover": "assets/unit-04-lesson-02.webp"
+      },
+      {
+        "title": "乘法分配律",
+        "href": "units/unit-04/lesson-03.html",
+        "cover": "assets/unit-04-lesson-03.webp"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "title": "无处不在的图形",
+    "topic": "三角形和四边形",
+    "intro": "观察、分类、搭一搭，认识图形的特征和关系。",
+    "entry": "units/unit-05/index.html",
+    "cover": "assets/unit-05-lesson-01.webp",
+    "lessons": [
+      {
+        "title": "三角形的基本特征与分类",
+        "href": "units/unit-05/lesson-01.html",
+        "cover": "assets/unit-05-lesson-01.webp"
+      },
+      {
+        "title": "三角形的三边关系与内角和",
+        "href": "units/unit-05/lesson-02.html",
+        "cover": "assets/unit-05-lesson-02.webp"
+      },
+      {
+        "title": "平行四边形和梯形的特征",
+        "href": "units/unit-05/lesson-03.html",
+        "cover": "assets/unit-05-lesson-03.webp"
+      }
+    ]
+  },
+  {
+    "unit": 6,
+    "title": "校园小农场",
+    "topic": "小数的意义与性质",
+    "intro": "量一量、称一称，从具体数量理解小数。",
+    "entry": "units/unit-06/index.html",
+    "cover": "assets/unit-06-lesson-01.webp",
+    "lessons": [
+      {
+        "title": "小数的意义组成与读写",
+        "href": "units/unit-06/lesson-01.html",
+        "cover": "assets/unit-06-lesson-01.webp"
+      },
+      {
+        "title": "小数的性质和大小比较",
+        "href": "units/unit-06/lesson-02.html",
+        "cover": "assets/unit-06-lesson-02.webp"
+      },
+      {
+        "title": "小数点移动引起大小变化",
+        "href": "units/unit-06/lesson-03.html",
+        "cover": "assets/unit-06-lesson-03.webp"
+      },
+      {
+        "title": "小数与单位换算",
+        "href": "units/unit-06/lesson-04.html",
+        "cover": "assets/unit-06-lesson-04.webp"
+      },
+      {
+        "title": "小数的近似数与改写",
+        "href": "units/unit-06/lesson-05.html",
+        "cover": "assets/unit-06-lesson-05.webp"
+      }
+    ]
+  },
+  {
+    "unit": 7,
+    "title": "校园体育节",
+    "topic": "小数加减法",
+    "intro": "记录比赛成绩，理解小数怎样对齐、怎样计算。",
+    "entry": "units/unit-07/index.html",
+    "cover": "assets/unit-07-lesson-01.webp",
+    "lessons": [
+      {
+        "title": "小数加减法的算理与笔算",
+        "href": "units/unit-07/lesson-01.html",
+        "cover": "assets/unit-07-lesson-01.webp"
+      },
+      {
+        "title": "小数加减混合运算与简便计算",
+        "href": "units/unit-07/lesson-02.html",
+        "cover": "assets/unit-07-lesson-02.webp"
+      }
+    ]
+  },
+  {
+    "unit": 8,
+    "title": "图案美",
+    "topic": "对称、平移与旋转",
+    "intro": "折一折、移一移、转一转，发现图案的变化。",
+    "entry": "units/unit-08/index.html",
+    "cover": "assets/unit-08-lesson-01.webp",
+    "lessons": [
+      {
+        "title": "认识轴对称图形和对称轴",
+        "href": "units/unit-08/lesson-01.html",
+        "cover": "assets/unit-08-lesson-01.webp"
+      },
+      {
+        "title": "认识图形的平移和旋转",
+        "href": "units/unit-08/lesson-02.html",
+        "cover": "assets/unit-08-lesson-02.webp"
+      }
+    ]
+  },
+  {
+    "unit": 9,
+    "title": "健体魄，强素质",
+    "topic": "平均数与数据整理",
+    "intro": "整理锻炼数据，用平均数认识一组数据的整体情况。",
+    "entry": "units/unit-09/index.html",
+    "cover": "assets/unit-09-lesson-01.webp",
+    "lessons": [
+      {
+        "title": "平均数的意义和计算",
+        "href": "units/unit-09/lesson-01.html",
+        "cover": "assets/unit-09-lesson-01.webp"
+      },
+      {
+        "title": "分段整理与比较两组数据",
+        "href": "units/unit-09/lesson-02.html",
+        "cover": "assets/unit-09-lesson-02.webp"
+      }
+    ]
+  }
+]
